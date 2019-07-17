@@ -192,7 +192,8 @@ ninelines-template
 
 1. Общий пример:
 
-    ```Шаг 1: исходная иконка без полей
+    Шаг 1: исходная иконка без полей
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
         <path d="..."/>
         <path d="..."/>
@@ -200,7 +201,8 @@ ninelines-template
     </svg>
     ```
 
-    ```Шаг 2: добавляем поле размером {padding}
+    Шаг 2: добавляем поле размером {padding}
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="{width + 2 * padding}" height="{height + 2 * padding}" viewBox="0 0 {width + 2 * padding} {height + 2 * padding}">
         <g transform="translate({padding} {padding})">
             <path d="..."/>
@@ -210,7 +212,8 @@ ninelines-template
     </svg>
     ```
 
-    ```Шаг 3: запускаем optimize:svg и получаем иконку без лишних трансформаций
+    Шаг 3: запускаем optimize:svg и получаем иконку без лишних трансформаций
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="{width + 2 * padding}" height="{height + 2 * padding}" viewBox="0 0 {width + 2 * padding} {height + 2 * padding}">
         <path d="..."/>
         <path d="..."/>
@@ -220,7 +223,8 @@ ninelines-template
 
 2. Конкретный пример:
 
-    ```Шаг 1: исходная иконка без полей
+    Шаг 1: исходная иконка без полей
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="30" viewBox="0 0 20 30">
         <path d="..."/>
         <path d="..."/>
@@ -228,7 +232,8 @@ ninelines-template
     </svg>
     ```
 
-    ```Шаг 2: добавляем поле размером 1px
+    Шаг 2: добавляем поле размером 1px
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="32" viewBox="0 0 22 32">
         <g transform="translate(1 1)">
             <path d="..."/>
@@ -238,7 +243,8 @@ ninelines-template
     </svg>
     ```
 
-    ```Шаг 3: запускаем optimize:svg и получаем иконку без лишних трансформаций
+    Шаг 3: запускаем optimize:svg и получаем иконку без лишних трансформаций
+    ```html
     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="32" viewBox="0 0 22 32">
         <path d="..."/>
         <path d="..."/>
