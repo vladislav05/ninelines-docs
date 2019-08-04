@@ -31,5 +31,6 @@
   * [Работа с video.js](19_video-js.md)
   * [Работа с HLS](20_hls.md)
   * [Производительность](23_perfomance.md)
+  * [Работа с Git](24_git.md)
   * [Подробный чеклист по тестированию сайтов](https://gist.github.com/vladislav05/9675afdeabfa82dfba730c2d601c88f6)
   * [Короткий чеклист по тестированию сайтов](https://gist.github.com/vladislav05/31ff8e3a45173b5708f470365ae9e470)
