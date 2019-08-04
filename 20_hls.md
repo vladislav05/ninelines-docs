@@ -17,7 +17,8 @@
 
 ### FFMPEG
 
-1. Скачиваем и устанавливаем [FFMPEG](http://www.ffmpeg.org/download.html). У многих возникает вопрос как установить FFMPEG на Windows, поэтому ответ на этот вопрос можно найти [по ссылке](https://windowsloop.com/install-ffmpeg-windows-10/).
+1. Скачиваем и устанавливаем [FFMPEG](http://www.ffmpeg.org/download.html).
+У многих возникает вопрос как установить FFMPEG на Windows, поэтому ответ на этот вопрос можно найти [по ссылке](https://windowsloop.com/install-ffmpeg-windows-10/).
 2. Прописываем `FFMPEG` в `PATH`.
 3. Переходим в папку с видео:
 
