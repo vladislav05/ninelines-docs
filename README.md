@@ -26,6 +26,7 @@
 * [Оформление Pug-кода](16_codestyle-pug.md)
 * [Оформление SCSS-кода](17_codestyle-scss.md)
 * [Оформление JavaScript-кода](18_codestyle-javascript.md)
+* [Кроссбраузерность и адаптивность](22_crossbrowser_adaptive.md)
 * Дополнительная информация
   * [Работа с video.js](19_video-js.md)
   * [Работа с HLS](20_hls.md)
