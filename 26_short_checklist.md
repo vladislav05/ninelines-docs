@@ -22,7 +22,7 @@
 22. Проверка сайта в Windows + Chrome.
 23. Проверка сайта в Windows + Firefox.
 24. Проверка сайта в Windows + Edge.
-25. Проверка сайта в Windows + IE11.
+25. Проверка сайта в Windows + IE 11.
 26. Проверка сайта в Windows + Yandex.
 27. Проверка сайта в Windows + Opera.
 28. Проверка сайта в macOS + Chrome.
