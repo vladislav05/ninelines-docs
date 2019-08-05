@@ -201,8 +201,8 @@ Drag'n'drop можно использовать в слайдерах и эле�
 * Windows
     * Chrome
     * Firefox
-    * IE
     * Edge
+    * IE 11
     * Yandex
     * Opera
 * macOS
